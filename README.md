@@ -5,7 +5,7 @@ About My Website
 
 I created this personal portfolio website for Assignment 1. In this site you will find four primary pages:
 
-- Home: An introudion page to my portfolio and work.
+- Home: An introduction page to my portfolio and work.
 - About Me: A glimpse of my background, showing a profile photo and an introduction video of me.
 - Projects: An overview of 6ix different projects I have completed in the past few months. 
 - Contact Me: A form built with native HTML5 validation to contact me.
