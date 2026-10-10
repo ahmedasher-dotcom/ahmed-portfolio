@@ -70,6 +70,6 @@ Testing Status
 
 Links & Sources
 
-- GitHub Repository: 
-- Live Website: 
+- GitHub Repository: https://github.com/ahmedasher-dotcom/ahmed-portfolio
+- Live Website: https://ahmedasher-dotcom.github.io/ahmed-portfolio/
 
