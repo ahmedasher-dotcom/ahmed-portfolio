@@ -21,7 +21,7 @@ Responsive Design
 
 In order to handle different types of devices, I ensured to avoid flexbox completly. Therefore I dedicated three seperate CSS stylesheets based on devices. 
 - Desktop Layout: This layout applies to screens 1025px and wider via desktop.css.
-- Table Layout: This layout applies to screens from 601 px to 1024px via tablet.css.
+- Tablet Layout: This layout applies to screens from 601 px to 1024px via tablet.css.
 - Mobile Layout: This layout applies to screens 600px and smaller via mobile.css
 For mobile devices and tablets, the layout automatically shifts in order for the content boxes to stack vertically, making it more accessbile to navigate. 
 
