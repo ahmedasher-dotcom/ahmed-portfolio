@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+/* Mobile screens: 600px and smaller */
+
+#wrapper {
+    width: 100%;
+    margin: 0;
+}
+
+#banner {
+    padding: 25px 5%;
+    text-align: center;
+}
+
+#banner h1 {
+    font-size: 26px;
+}
+
+#banner p {
+    font-size: 14px;
+}
+
+/* Stack navigation links vertically */
+nav {
+    padding: 10px;
+}
+
+nav a {
+    display: block;
+    padding: 12px;
+    border-bottom: 1px solid #E5D8C8;
+}
+
+main {
+    padding: 20px 5%;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 15px;
+}
+
+/* Stack homepage boxes vertically */
+.explore-box {
+    float: none;
+    width: 100%;
+    min-height: 0;
+    margin: 15px 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Make photos fit smaller screens */
+.home-photo {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+.profile-photo {
+    width: 80%;
+    height: auto;
+}
+
+.project-photo {
+    width: 100%;
+    height: auto;
+}
+
+/* Make the video fit the phone screen */
+.intro-video {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+/* Contact form on mobile */
+#contact {
+    width: 100%;
+}
+
+fieldset {
+    padding: 15px;
+}
+
+#contact input[type="submit"],
+#contact input[type="reset"] {
+    width: 100%;
+    margin-right: 0;
+}
+
+/* Footer on mobile */
+footer {
+    padding: 20px 10px;
+    font-size: 14px;
+}

@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+/* Tablet screens: 601px to 1024px */
+
+#wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+
+#banner {
+    padding: 30px 4%;
+}
+
+#banner h1 {
+    font-size: 30px;
+}
+
+nav {
+    padding: 12px;
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    padding: 10px;
+    font-size: 15px;
+}
+
+main {
+    padding: 30px 4%;
+}
+
+/* Stack homepage boxes vertically */
+.explore-box {
+    float: none;
+    width: 85%;
+    min-height: 0;
+    margin: 15px auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.home-photo {
+    width: 80%;
+    max-width: 550px;
+}
+
+.profile-photo {
+    width: 55%;
+    max-width: 350px;
+}
+
+.project-photo {
+    width: 100%;
+    height: auto;
+}
+
+.intro-video {
+    width: 100%;
+    height: auto;
+}
+
+#contact {
+    width: 95%;
+}

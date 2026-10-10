@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+/* Desktop screens: 1025px and wider */
+
+#wrapper {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#banner {
+    padding: 45px 5%;
+}
+
+#banner h1 {
+    font-size: 36px;
+}
+
+/* Navigation across the top */
+nav a {
+    display: inline-block;
+    padding: 12px 18px;
+}
+
+/* Homepage boxes appear side by side */
+.explore-box {
+    float: left;
+    width: 27%;
+    margin: 1%;
+    padding: 2%;
+    box-sizing: border-box;
+}
+
+/* Images resize within their containers */
+.home-photo {
+    width: 65%;
+    max-width: 550px;
+}
+
+.profile-photo {
+    width: 45%;
+    max-width: 350px;
+}
+
+.project-photo {
+    width: 100%;
+    max-width: 750px;
+}
+
+.intro-video {
+    width: 100%;
+    max-width: 650px;
+}
